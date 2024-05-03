@@ -1,0 +1,101 @@
+.container{
+    text-align: center;
+  }
+  
+  .f-c{
+    margin-top: 1%;
+  }
+  
+  ol {
+    margin-top: 2.5vh;
+    color: red;
+  }
+  
+  input{
+    width: 50vw;
+    height: 5vh;
+    font-size: 2.5vh;
+    border: 2px solid rgb(215, 243, 174);
+    background-color: transparent;
+    color: rgb(215, 243, 174);
+  }
+  
+  h3 {
+    color: #ffffff;
+    font-size: 2.5vh;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .btn-send{
+    font-size: 2.5vh;
+    color: green;
+    margin-left: 10px;
+    border: 2px solid green;
+    background-color: transparent;
+    border-radius: 10%;
+    cursor: pointer;
+  
+  }
+  
+  .btn-send:hover{
+    color: black;
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    border-radius: 10%;
+  }
+  
+  .btn{
+    font-size: 1.8vh;
+    margin: 0% 1%;
+    background-color: transparent;
+    border-radius: 10%;
+    cursor: pointer;
+  }
+  
+  
+  .btn-del{
+    color: red;
+    border: 2px solid red;
+  
+  
+  }
+  
+  .btn-del:hover{
+    color: black;
+    background-color: red;
+    border-radius: 10%;
+  
+  }
+  .btn-mod{
+    color: yellow;
+    border: 2px solid yellow;
+  }
+  
+  .btn-mod:hover{
+    color: black;
+    background-color: yellow;
+    border-radius: 10%;
+  
+  }
+  
+  .btn-save{
+    color: greenyellow;
+    border: 2px solid greenyellow;
+  
+  
+  }
+  
+  .btn-save:hover{
+    color: black;
+    background-color: greenyellow;
+    border-radius: 10%;
+  
+  }
+  
+  .input-mod{
+    font-size: 1.8vh;
+  width: fit-content;
+  height: auto;
+  
+  }
